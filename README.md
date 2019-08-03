@@ -1,7 +1,7 @@
 **소개**
 ========
 * 이름 : 신인철
-* 나이 : 24
+* 나이 : 24살
 * email : inchul9603@gmail.com
 * blog : https://pypypy.tistory.com/
 * * *
@@ -20,3 +20,7 @@
 * visual studio
 * jupyter notebook
 * eclipe
+**현재목표**
+============
+* C언어를 이용한 간단한 게임 만들기
+* 파이썬을 사용해서 기초알고리즘 모두 
